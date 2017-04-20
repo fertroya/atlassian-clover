@@ -1,0 +1,17 @@
+dependency-reduced-pom.xml
+.classpath
+.project
+target
+*log*.txt
+/bin
+.settings
+.metadata/
+.idea
+*.iml
+.DS_Store
+test-classes/
+*.log
+.factorypath
+connector/bin
+.hg*
+.java-version
